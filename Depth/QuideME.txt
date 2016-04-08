@@ -1,0 +1,8 @@
+1-open the asset of unity in the from the arduino-processing-unity folder 
+2-add final fantasy asset to your project
+3-open dem them demo scene is the environment
+4-add cardboard asset to your project and open cardboard->prefabe->CardboardMain is the vr camera
+5-in your scene open First Person Controller and choose Main Camera copy the Mouse Look(script) to your CardboardMain then delete the Main Camera (you should now move the vr camera as first person shooter)
+6-open the folders plugins and scripts drag the scripts (Osc - UDPPacketIO - OSCListener) to your CardboardMain (camera) 
+7-look at the screen shot to adujust the camera with your sensor and make it move right
+
