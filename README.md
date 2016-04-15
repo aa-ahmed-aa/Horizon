@@ -33,4 +33,4 @@ and press the play button
 
 #Fun Work (Optimal)
 on how to make the camera hierarchy and get to unity Scripts check the <a href="https://github.com/aa-ahmed-aa/Horizon/blob/master/Depth/QuideME.txt">QuideMe</a> 
-![Alt text](https://github.com/aa-ahmed-aa/Horizon/blob/master/hierarchy.png "Optional title") 
+<img src="https://github.com/aa-ahmed-aa/Horizon/blob/master/hierarchy.png">
