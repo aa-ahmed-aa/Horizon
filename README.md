@@ -24,7 +24,7 @@ you should install these software
 #setting up the Game 
 1-first you need to make the gyroscope work and take values for the rotation live 
 -connect the gryo with arduino 
-![Alt text](https://github.com/aa-ahmed-aa/Horizon/Gyro.png "Optional title")
+![Alt text](https://github.com/aa-ahmed-aa/Horizon/blob/master/Gyro.png "Optional title")
 -open (Arduino Sketch) folder and upload the code in the file to arduino
 -open (Processing Sketch) folder and run the script you chould see the values of the gyro start to change according to your gyro rotation
 
@@ -32,6 +32,6 @@ you should install these software
 and press the play button 
 
 #Fun Work (Optimal)
-on how to make the camera hierarchy and get to unity Scripts check the <a href="https://github.com/aa-ahmed-aa/Horizon/Depth/QuideME.txt">QuideMe</a> 
+on how to make the camera hierarchy and get to unity Scripts check the <a href="https://github.com/aa-ahmed-aa/Horizon/blob/master/Depth/QuideME.txt">QuideMe</a> 
 <br>
-![Alt text](https://github.com/aa-ahmed-aa/Horizon/Depth/hierarchy.png "Optional title")
+![Alt text](https://github.com/aa-ahmed-aa/Horizon/blob/master/Depth/hierarchy.png "Optional title")
