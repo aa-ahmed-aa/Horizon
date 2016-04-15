@@ -1,8 +1,8 @@
 
 #hardware you will need 
-1- arduino uno 
-2- Gyroscope mpu6050 you can find arduino and gyro at http://store.fut-electronics.com/ or  http://ram-e-shop.com/oscmax/catalog/ 
-3-google cardboard you can find it at https://www.jumia.ma/ar/catalog/?q=virtual+Reality+
+1- arduino uno <br>
+2- Gyroscope mpu6050 you can find arduino and gyro at http://store.fut-electronics.com/ or  http://ram-e-shop.com/oscmax/catalog/ <br>
+3-google cardboard you can find it at https://www.jumia.ma/ar/catalog/?q=virtual+Reality+ <br>
 
 
 
