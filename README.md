@@ -1,4 +1,5 @@
-
+#Description 
+this is VR Game using gyroscope to move live object in the game the game is on the pc but it uses the mobile as camera the graphic is rendered on pc and sent to mobile and take mobile rotation and move the scene camera as as it rotates.<br>
 #hardware you will need 
 1- arduino uno <br>
 2- Gyroscope mpu6050 you can find arduino and gyro at http://store.fut-electronics.com/ or  http://ram-e-shop.com/oscmax/catalog/ <br>
