@@ -32,5 +32,6 @@ you should install these software
 and press the play button 
 
 #Fun Work (Optimal)
-on how to make the camera hierarchy and get to unity Scripts check the Depth/QuideME.txt
-<a href="https://github.com/aa-ahmed-aa/Horizon/Depth/hierarchy.png">
+on how to make the camera hierarchy and get to unity Scripts check the <a href="https://github.com/aa-ahmed-aa/Horizon/Depth/QuideME.txt">QuideMe</a> 
+<br>
+![Alt text](https://github.com/aa-ahmed-aa/Horizon/Depth/hierarchy.png "Optional title")
